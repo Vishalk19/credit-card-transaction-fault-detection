@@ -3,9 +3,7 @@
 - Fraud Detection is a vital topic that applies to many industries including banking, insurance, law enforcement and government agencies. 
 - Fraud instances have seen a rise in the past few years so this topic is as critical as ever. Thus we need to be able to distinguish between authentic and fraudulent financial transactions. As the world moves towards digitization more transactions become cashless. 
 - The use of credit cards and online payment methods have increased. Increase in fraud rates in these kinds of transactions causes huge losses for financial institutions and users. Thus we did a comprehensive review of the various methods to detect fraud.
-### Papers used for Literature review
-1. [Credit card Fraud Detection Using Machine Learning and Data Science](https://www.researchgate.net/publication/336800562_Credit_Card_Fraud_Detection_using_Machine_Learning_and_Data_Science)
-2. [A Predicting Model For Accounting Fraud Based On Ensemble Learning](https://ieeexplore.ieee.org/abstract/document/9557545?casa_token=Cn5XE1XPJsAAAAAA:fy2z6aH_pb1TtHtq6WdfqYdfOndMGh1w4VTR-MV1tza59nGCR2XwSj3TCwo_UNEjFzwyXEVZVUMJ)
+
 
 ## Dataset description
 - [Kaggle Dataset Link](https://www.kaggle.com/ealtman2019/credit-card-transactions)
@@ -108,10 +106,6 @@ Out of the transactions only 30,000 are fraudulent in nature. Thus it is highly 
 2. It was seen that oversampling fraud data and undersampling non-fraudulent data allowed for the models to train better and have better f1 scores and were robust enough to detect outliers.
 3. In the majority of the models the best results were seen with robust scaling of the data.
 
-## Member Contributions
-1. **Aruj Deshwal**-Random Forest, Pre-Processing, Literature Review, finding Dataset, Hyperparameter tuning, Neural Network.
-2. **Abhinav Rawat**- Pre-Processing, Logistic Regression, Data Cleaning, Feature analysis ,Finding Dataset, Hyperparameter tuning.
-3. **Sudeep Reddy**- Literature Review, feature analysis, Decision Tree, Naive Bayes, Pre-processing , SVM.
 
 
 
